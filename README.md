@@ -1,4 +1,3 @@
-# Library-system-management--project
 # Library Management System using SQL Project
 
 ## Project Overview
